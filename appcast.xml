@@ -6,10 +6,10 @@
     <language>en</language>
     <item>
       <title>Pelvic Training Software 0.5.0</title>
-      <pubDate>Fri, 01 Mar 2024 18:02:40 +03:00</pubDate>
+      <pubDate>Fri, 01 Mar 2024 21:10:11 +03:00</pubDate>
       <sparkle:version>0.5.0</sparkle:version>
       <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
-      <enclosure url="https://onedrive.live.com/download?resid=553D3823EF1152CE%2162913&authkey=!ALWZmrG82LA0LYg" sparkle:version="0.5.0" sparkle:shortVersionString="0.5" length="136171520" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="wq3QOMMI/Yzj9OuUlEpdDUZ+aXtDQSpghaDKNEs7OfZS+9QyMxcQR3CnSoz50pnFgYFy/4ZpJIdv2D4E04HwCQ==" />
+      <enclosure url="https://raw.githubusercontent.com/SHIROKEY/pelvic-training/main/pelvic-training-software-0.5.0.msi" sparkle:version="0.5.0" sparkle:shortVersionString="0.5" length="136175616" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="Yozwc91SA+hhlvB8ZxSE/YrsjhTLr36fMNd3XuiCOVLQr3rqFgIJwydngpTzyhNmXRHB+ALhhcYtgYb1s0cDBQ==" />
     </item>
   </channel>
 </rss>
