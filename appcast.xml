@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Pelvic Training Software</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Pelvic Training Software 0.5.0</title>
+      <pubDate>Fri, 01 Mar 2024 18:02:40 +03:00</pubDate>
+      <sparkle:version>0.5.0</sparkle:version>
+      <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+      <enclosure url="https://onedrive.live.com/download?resid=553D3823EF1152CE%2162913&authkey=!ALWZmrG82LA0LYg" sparkle:version="0.5.0" sparkle:shortVersionString="0.5" length="136171520" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="wq3QOMMI/Yzj9OuUlEpdDUZ+aXtDQSpghaDKNEs7OfZS+9QyMxcQR3CnSoz50pnFgYFy/4ZpJIdv2D4E04HwCQ==" />
+    </item>
+  </channel>
+</rss>
